@@ -17,7 +17,7 @@ public class LogParserTest {
 
     @Test()
     public void testParse() throws IOException {
-        this.logParser.parse("src/test/resources/CorrectLogs.txt");
+        this.logParser.parse("src/test/resources/Logs.txt");
     }
 
 }
